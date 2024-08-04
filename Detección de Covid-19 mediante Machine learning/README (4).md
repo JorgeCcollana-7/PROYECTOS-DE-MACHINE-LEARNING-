@@ -1,4 +1,4 @@
-# Detección de Covid-19 mediante Machine learning
+# Detección de Covid-19 mediante RANDOM FOREST VS REGRESION LOGISTICA
 El avance tecnológico ha tenido un impacto profundo en todos los aspectos de la vida, incluyendo el ámbito médico. La inteligencia artificial, en particular, ha demostrado ser prometedora en la atención médica mediante el análisis y procesamiento de datos para la toma de decisiones. La detección temprana de enfermedades potencialmente mortales es crucial para prevenir su propagación y desarrollo. COVID-19, una enfermedad extremadamente contagiosa, ha causado una pandemia global que requiere una intervención rápida. La necesidad de un sistema eficaz para detectar el virus es evidente dada su rápida propagación. Con el aumento del uso de la tecnología, ahora tenemos acceso a una gran cantidad de datos sobre COVID-19 que pueden proporcionar información valiosa sobre el virus. En este proyecto, comparamos la precisión de varios algoritmos de aprendizaje automático para la predicción de COVID-19, y seleccionamos el algoritmo más preciso para el modelo final de prueba.
 ## Diccionario de Datos
 
